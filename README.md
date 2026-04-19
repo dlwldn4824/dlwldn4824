@@ -23,6 +23,40 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards </h2> <br> 
+    <div style="text-align: left; color: #282d33;"> 
+    <ul>
+      <li><strong>성적 우수 장학금 (Academic Excellence Scholarship)</strong> — 광운대학교
+        <ul>
+          <li>수상일: 2024.09, 2025.06, 2025.12</li>
+          <li>내용: 학기 성적 상위 5%</li>
+        </ul>
+      </li>
+      <li><strong>글쓰기 대회 가작 (산문 부문)</strong> — 광운대학교
+        <ul>
+          <li>수상일: 2024.05</li>
+        </ul>
+      </li>
+      <li><strong>Dean’s List</strong> — 광운대학교
+        <ul>
+          <li>수상일: 2024.12</li>
+          <li>내용: 우수 학업 성취 학생 선정</li>
+        </ul>
+      </li>
+      <li><strong>창업 동아리 경진대회 장려상</strong> — 광운대학교
+        <ul>
+          <li>수상일: 2024.09</li>
+        </ul>
+      </li>
+      <li><strong>마이크로모듈 초급 SS급</strong> — 광운대학교 / 지능형로봇사업단
+        <ul>
+          <li>수상일: 2025.12</li>
+        </ul>
+      </li>
+    </ul>
+    </div> 
+    </div>
+    <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=dlwldn4824&bg_color=180,fff194,00000000&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlwldn4824&layout=compact&bg_color=180,fff194,00000000&title_color=000000&text_color=000000"
            /> </div> 
