@@ -1,4 +1,4 @@
-# Lee-Jiwoo-CV
+# Lee-Jiwoo
 <div align= "center">
     </div>
     <div style="text-align: left;"> 
@@ -29,7 +29,6 @@
       <li><strong>성적 우수 장학금 (Academic Excellence Scholarship)</strong> — 광운대학교
         <ul>
           <li>수상일: 2024.09, 2025.06, 2025.12</li>
-          <li>내용: 학기 성적 상위 5%</li>
         </ul>
       </li>
       <li><strong>글쓰기 대회 가작 (산문 부문)</strong> — 광운대학교
