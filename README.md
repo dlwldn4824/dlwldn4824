@@ -1,4 +1,3 @@
-```markdown id="a8dql6"
 # 이지우 | Lee-Jiwoo
 
 ---
@@ -160,4 +159,3 @@
 
 - Email : **dlwldn4824@naver.com**
 - GitHub : **github.com/dlwldn4824**
-```
