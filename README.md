@@ -1,12 +1,8 @@
 # 이지우 | Lee-Jiwoo
 
----
-
 ## 👤 About Me
 
 - 🎓 광운대학교 정보융합학부 재학
-
----
 
 ## 🛠️ Tech Stacks
 
