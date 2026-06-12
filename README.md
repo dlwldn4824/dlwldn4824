@@ -40,7 +40,7 @@
 - 어린이집 3·5세 영어 보육 활동
 - 학생 및 보호자와 지속적인 소통을 통한 맞춤형 학습 지원
 
----
+## 💻 대외활동
 
 ### 광운대학교 대학혁신 서포터즈
 **2025.06 ~ 현재**
@@ -123,6 +123,8 @@
 **Aug 2023 – Jun 2025**
 
 - Provided individualized learning support through continuous communication with students and parents.
+
+## 💻 Extracurricular Activities
 
 ### Kwangwoon University Innovation Supporters
 **Jun 2025 – Present**
