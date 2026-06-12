@@ -1,129 +1,182 @@
-```html
-# Lee-Jiwoo
+```markdown
+# 이지우 | Lee-Jiwoo
 
-<div align="center">
-</div>
+---
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 About Me </h2>
+## 👤 About Me
+
+- 🎓 광운대학교 정보융합학부 재학
+
+---
+
+## 🛠️ Tech Stacks
+
+### Languages & Frameworks
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+### Tools & Platforms
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+
+---
+
+## 📚 교육 경력
+
+### 에듀탑 온라인 화상과외
+**2024.09 ~ 2025.12**
+
+- 초·중·고등학생 대상 온라인 수학 수업 진행
+- 약 10명의 학생을 담당하며 개별 맞춤형 학습 지도 수행
+- 학생 수준에 따른 진도 관리 및 학습 코칭 진행
+
+---
+
+### 월계 채움학원
+**2024.07 ~ 2025.12**
+
+- 수학학원 조교 활동
+- 예비 고3 학생 15~20명 담당
+- 문제 풀이 지도 및 학습 상담 지원
+
+---
+
+### 개인 과외 (김과외 · 자란다 멘토)
+**2023.08 ~ 2025.06**
+
+- 초등학교 3·5학년 수학 과외
+- 고등학생 국어·수학 과외
+- 어린이집 3·5세 영어 보육 활동
+- 학생 및 보호자와 지속적인 소통을 통한 맞춤형 학습 지원
+
+---
+
+### 광운대학교 대학혁신 서포터즈
+**2025.06 ~ 현재**
+
+- 대학 프로그램 홍보 및 재학생 지원 활동 참여
+- 학생들과의 소통 및 멘토링 활동 수행
+
+---
+
+## 🚀 프로젝트
+
+- CO-SHOW 2025 전시회 웹 애플리케이션 개발
+- 밴드 예약 관리 프로젝트
+
+---
+
+## 🏆 수상 경력
+
+### 성적 우수 장학금 (광운대학교)
+- 2024.09
+- 2025.06
+- 2025.12
+
+### 글쓰기 대회 가작 (산문 부문)
+- 2024.05
+
+### Dean's List 선정
+- 2024.12
+- 우수 학업 성취 학생 선정
+
+### 창업 동아리 경진대회 장려상
+- 2024.09
+
+### 매치업 심화과정 경진대회 (로봇 분야)
+- 2025.05.29
+- 실무보고서 부문 우수상
+- 포스터 부문 우수상
+
+### 마이크로모듈 초급 SS급
+- 2025.12
+- 광운대학교 / 지능형로봇사업단
+
+---
+
+## 📫 Contact
+
+- Email : **dlwldn4824@naver.com**
+- GitHub : **github.com/dlwldn4824**
+
+---
+
+# English Version
+
+## 👤 About Me
 
 - 🎓 Computer Science Student at **Kwangwoon University**
-- 🤖 Interested in **AI, Game Development, and Human-Centered Computing**
-- 📚 Passionate Educator with **5+ years of teaching experience**
+- 🤖 Interested in **Artificial Intelligence, Game Development, and Human-Centered Computing**
+- 📚 Passionate educator with **5+ years of teaching experience**
 - 💡 Enjoy solving real-world problems through programming and collaborative projects
 
-</div>
+---
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
-    <br>
+## 📚 Teaching History
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+### EduTop Online Tutoring
+**Sep 2024 – Dec 2025**
 
-</div>
+- Conducted online mathematics lessons for elementary, middle, and high school students
+- Provided personalized instruction and academic coaching for approximately 10 students
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Teaching History </h2>
-    <br>
+### Wolgye Chaeum Academy
+**Jul 2024 – Dec 2025**
 
-<ul>
-    <li>
-        <strong>EduTop Online Tutoring</strong>
-        <ul>
-            <li><strong>Period:</strong> 2024.09 ~ 2025.12</li>
-            <li>Worked as an online mathematics instructor for elementary, middle, and high school students.</li>
-            <li>Provided personalized instruction and academic coaching for approximately 10 students.</li>
-        </ul>
-    </li>
+- Served as a teaching assistant at a mathematics academy
+- Supported classes for 15–20 pre-senior high school students
+- Assisted with problem-solving sessions and academic guidance
 
-    <li>
-        <strong>Wolgye Chaeum Academy</strong>
-        <ul>
-            <li><strong>Period:</strong> 2024.07 ~ 2025.12</li>
-            <li>Served as a teaching assistant at a mathematics academy.</li>
-            <li>Supported classes and managed 15–20 pre-senior high school students.</li>
-        </ul>
-    </li>
+### Private Tutor (Kimgwaoe & Jaranda Mentor)
+**Aug 2023 – Jun 2025**
 
-    <li>
-        <strong>Private Tutor (Kimgwaoe & Jaranda Mentor)</strong>
-        <ul>
-            <li><strong>Period:</strong> 2023.08 ~ 2025.06</li>
-            <li>Provided mathematics tutoring for elementary school students (Grades 3 and 5).</li>
-            <li>Offered English childcare programs for preschool children aged 3–5.</li>
-            <li>Taught Korean and Mathematics to high school students.</li>
-            <li>Maintained continuous communication with students and parents to provide individualized learning support.</li>
-        </ul>
-    </li>
+- Mathematics tutoring for elementary school students (Grades 3 & 5)
+- Korean and Mathematics tutoring for high school students
+- English childcare activities for preschool children aged 3–5
+- Maintained continuous communication with students and parents to provide individualized learning support
 
-    <li>
-        <strong>Kwangwoon University Innovation Supporters</strong>
-        <ul>
-            <li><strong>Period:</strong> 2025.06 ~ Present</li>
-            <li>Participated in student support and university promotion activities.</li>
-        </ul>
-    </li>
-</ul>
+### Kwangwoon University Innovation Supporters
+**Jun 2025 – Present**
 
-</div>
+- Participating in university support and student engagement activities
+- Conducting mentoring and communication activities with fellow students
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Awards </h2>
-    <br>
+---
 
-<ul>
-    <li>
-        <strong>Academic Excellence Scholarship</strong> — Kwangwoon University
-        <ul>
-            <li>2024.09, 2025.06, 2025.12</li>
-        </ul>
-    </li>
+## 🚀 Projects
 
-    <li>
-        <strong>Honorable Mention, Writing Competition (Essay Category)</strong> — Kwangwoon University
-        <ul>
-            <li>2024.05</li>
-        </ul>
-    </li>
+- Development of the CO-SHOW 2025 exhibition web application
 
-    <li>
-        <strong>Dean's List</strong> — Kwangwoon University
-        <ul>
-            <li>2024.12</li>
-            <li>Recognized for outstanding academic achievement.</li>
-        </ul>
-    </li>
+---
 
-    <li>
-        <strong>Encouragement Award, Startup Club Competition</strong> — Kwangwoon University
-        <ul>
-            <li>2024.09</li>
-        </ul>
-    </li>
+## 🏆 Awards
 
-    <li>
-        <strong>Match-Up Advanced Course Competition (Robotics Track)</strong>
-        <ul>
-            <li>2025.05.29</li>
-            <li>Excellent Award – Practical Report Division</li>
-            <li>Excellent Award – Poster Division</li>
-        </ul>
-    </li>
+### Academic Excellence Scholarship
+- Sep 2024
+- Jun 2025
+- Dec 2025
 
-    <li>
-        <strong>Micro Module SS Grade (Beginner Level)</strong> — Kwangwoon University / Intelligent Robotics Project Group
-        <ul>
-            <li>2025.12</li>
-        </ul>
-    </li>
-</ul>
+### Honorable Mention – Writing Competition
+- May 2024
 
-</div>
+### Dean's List
+- Dec 2024
+- Recognized for outstanding academic achievement
+
+### Encouragement Award – Startup Club Competition
+- Sep 2024
+
+### Match-Up Advanced Course Competition (Robotics Track)
+- May 29, 2025
+- Excellent Award – Practical Report Division
+- Excellent Award – Poster Division
+
+### Micro Module SS Grade (Beginner Level)
+- Dec 2025
+- Kwangwoon University / Intelligent Robotics Project Group
 ```
