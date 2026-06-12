@@ -1,4 +1,3 @@
-```markdown
 # 이지우 | Lee-Jiwoo
 
 ---
@@ -66,26 +65,26 @@
 
 ## 🚀 프로젝트
 
-- CO-SHOW 2025 전시회 웹 애플리케이션 개발
-- 밴드 예약 관리 프로젝트
+### CO-SHOW 2025 전시회 웹 애플리케이션
+- React 기반 전시회 안내 및 행사 정보 제공 웹 애플리케이션 개발
+- 전시 일정, 이벤트, 사진 및 장소 정보를 사용자 친화적으로 제공
+
+### 밴드 예약 관리 프로젝트
+- 밴드 합주 및 공연 일정 관리를 위한 예약 시스템 개발
+- 예약 현황 조회, 일정 조율 및 사용자 편의 기능 구현
 
 ---
 
 ## 🏆 수상 경력
 
-### 성적 우수 장학금 (광운대학교)
-- 2024.09
-- 2025.06
+### 마이크로모듈 초급 SS급
+**광운대학교 / 지능형로봇사업단**
 - 2025.12
 
-### 글쓰기 대회 가작 (산문 부문)
-- 2024.05
-
-### Dean's List 선정
-- 2024.12
-- 우수 학업 성취 학생 선정
-
-### 창업 동아리 경진대회 장려상
+### 성적 우수 장학금
+**광운대학교**
+- 2025.12
+- 2025.06
 - 2024.09
 
 ### 매치업 심화과정 경진대회 (로봇 분야)
@@ -93,9 +92,18 @@
 - 실무보고서 부문 우수상
 - 포스터 부문 우수상
 
-### 마이크로모듈 초급 SS급
-- 2025.12
-- 광운대학교 / 지능형로봇사업단
+### Dean's List 선정
+**광운대학교**
+- 2024.12
+- 우수 학업 성취 학생 선정
+
+### 창업 동아리 경진대회 장려상
+**광운대학교**
+- 2024.12
+
+### 글쓰기 대회 가작 (산문 부문)
+**광운대학교**
+- 2024.05
 
 ---
 
@@ -150,25 +158,26 @@
 
 ## 🚀 Projects
 
-- Development of the CO-SHOW 2025 exhibition web application
+### CO-SHOW 2025 Exhibition Web Application
+- Developed a React-based web application for exhibition guidance and event information
+- Provided exhibition schedules, events, photos, and venue information through a user-friendly interface
+
+### Band Reservation Management System
+- Developed a reservation system for managing band practice and performance schedules
+- Implemented schedule coordination, reservation status tracking, and user convenience features
 
 ---
 
 ## 🏆 Awards
 
-### Academic Excellence Scholarship
-- Sep 2024
-- Jun 2025
+### Micro Module SS Grade (Beginner Level)
+**Kwangwoon University / Intelligent Robotics Project Group**
 - Dec 2025
 
-### Honorable Mention – Writing Competition
-- May 2024
-
-### Dean's List
-- Dec 2024
-- Recognized for outstanding academic achievement
-
-### Encouragement Award – Startup Club Competition
+### Academic Excellence Scholarship
+**Kwangwoon University**
+- Dec 2025
+- Jun 2025
 - Sep 2024
 
 ### Match-Up Advanced Course Competition (Robotics Track)
@@ -176,7 +185,22 @@
 - Excellent Award – Practical Report Division
 - Excellent Award – Poster Division
 
-### Micro Module SS Grade (Beginner Level)
-- Dec 2025
-- Kwangwoon University / Intelligent Robotics Project Group
-```
+### Dean's List
+**Kwangwoon University**
+- Dec 2024
+- Recognized for outstanding academic achievement
+
+### Encouragement Award – Startup Club Competition
+**Kwangwoon University**
+- Dec 2024
+
+### Honorable Mention – Writing Competition
+**Kwangwoon University**
+- May 2024
+
+---
+
+## 📫 Contact
+
+- Email : **dlwldn4824@naver.com**
+- GitHub : **github.com/dlwldn4824**
