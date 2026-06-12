@@ -1,3 +1,4 @@
+```markdown id="a8dql6"
 # 이지우 | Lee-Jiwoo
 
 ---
@@ -10,18 +11,15 @@
 
 ## 🛠️ Tech Stacks
 
-### Languages & Frameworks
-
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-
-### Tools & Platforms
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</p>
 
 ---
 
@@ -119,88 +117,47 @@
 ## 👤 About Me
 
 - 🎓 Computer Science Student at **Kwangwoon University**
-- 🤖 Interested in **Artificial Intelligence, Game Development, and Human-Centered Computing**
-- 📚 Passionate educator with **5+ years of teaching experience**
-- 💡 Enjoy solving real-world problems through programming and collaborative projects
 
----
+## 🚀 Projects
+
+### CO-SHOW 2025 Exhibition Web Application
+- Developed a React-based web application for exhibition guidance and event information.
+
+### Band Reservation Management System
+- Developed a reservation system for managing band practice and performance schedules.
 
 ## 📚 Teaching History
 
 ### EduTop Online Tutoring
 **Sep 2024 – Dec 2025**
 
-- Conducted online mathematics lessons for elementary, middle, and high school students
-- Provided personalized instruction and academic coaching for approximately 10 students
+- Conducted online mathematics lessons for elementary, middle, and high school students.
 
 ### Wolgye Chaeum Academy
 **Jul 2024 – Dec 2025**
 
-- Served as a teaching assistant at a mathematics academy
-- Supported classes for 15–20 pre-senior high school students
-- Assisted with problem-solving sessions and academic guidance
+- Served as a teaching assistant at a mathematics academy.
 
 ### Private Tutor (Kimgwaoe & Jaranda Mentor)
 **Aug 2023 – Jun 2025**
 
-- Mathematics tutoring for elementary school students (Grades 3 & 5)
-- Korean and Mathematics tutoring for high school students
-- English childcare activities for preschool children aged 3–5
-- Maintained continuous communication with students and parents to provide individualized learning support
+- Provided individualized learning support through continuous communication with students and parents.
 
 ### Kwangwoon University Innovation Supporters
 **Jun 2025 – Present**
 
-- Participating in university support and student engagement activities
-- Conducting mentoring and communication activities with fellow students
-
----
-
-## 🚀 Projects
-
-### CO-SHOW 2025 Exhibition Web Application
-- Developed a React-based web application for exhibition guidance and event information
-- Provided exhibition schedules, events, photos, and venue information through a user-friendly interface
-
-### Band Reservation Management System
-- Developed a reservation system for managing band practice and performance schedules
-- Implemented schedule coordination, reservation status tracking, and user convenience features
-
----
+- Participating in university support and mentoring activities.
 
 ## 🏆 Awards
 
-### Micro Module SS Grade (Beginner Level)
-**Kwangwoon University / Intelligent Robotics Project Group**
-- Dec 2025
-
-### Academic Excellence Scholarship
-**Kwangwoon University**
-- Dec 2025
-- Jun 2025
-- Sep 2024
-
-### Match-Up Advanced Course Competition (Robotics Track)
-- May 29, 2025
-- Excellent Award – Practical Report Division
-- Excellent Award – Poster Division
-
-### Dean's List
-**Kwangwoon University**
-- Dec 2024
-- Recognized for outstanding academic achievement
-
-### Encouragement Award – Startup Club Competition
-**Kwangwoon University**
-- Dec 2024
-
-### Honorable Mention – Writing Competition
-**Kwangwoon University**
-- May 2024
-
----
+- Academic Excellence Scholarship (Sep 2024, Jun 2025, Dec 2025)
+- Match-Up Advanced Course Competition – Excellent Award (May 2025)
+- Dean's List (Dec 2024)
+- Encouragement Award – Startup Club Competition (Dec 2024)
+- Honorable Mention – Writing Competition (May 2024)
 
 ## 📫 Contact
 
 - Email : **dlwldn4824@naver.com**
 - GitHub : **github.com/dlwldn4824**
+```
