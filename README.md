@@ -60,7 +60,6 @@
 
 ### 진행 중
 - **LG AIMERS 9기** (2026.07~)
-- KT 희망나눔재단 랜선나눔캠퍼스 대학생 멘토 (2026.07~09)
 - **광운대학교 대학혁신 서포터즈** (2025.06 ~ 현재) — 대학 프로그램 홍보·재학생 지원·멘토링
 
 ### 완료 · 수상
@@ -68,6 +67,11 @@
 - **Smart Icheon Care** — 지능형 로봇 컨소시엄 대상 (2026.06.26) · [레포](https://github.com/dlwldn4824/smart_icheon_care)
 
 ## 📚 교육 경력
+
+### KT 희망나눔재단 랜선나눔캠퍼스
+**2026.07 ~ 2026.09**
+- 중3 대상 **AI 코디네이터** · 머신러닝 등 AI·데이터 교육
+- 대학생 멘토로 중학생 AI 기초·실습 지도
 
 ### 에듀탑 온라인 화상과외
 **2024.09 ~ 2025.12**
@@ -101,6 +105,7 @@
 - **Band reservation web** — club ops product ([band](https://github.com/dlwldn4824/band))
 
 ## Teaching
+- KT Hope Sharing Foundation Online Campus — AI coordinator & ML for 9th graders (2026.07–09)
 - EduTop online math tutoring (2024.09–2025.12)
 - Wolgye Chaeum Academy TA (2024.07–2025.12)
 - Private tutor / Jaranda mentor (2023.08–2025.06)
