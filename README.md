@@ -1,12 +1,12 @@
 # 이지우 | Lee-Jiwoo
 
-> AI가 답을 던지는 시대에 **왜?**를 묻는 개발자  
+> AI가 답을 던지는 시대에 <strong>왜?</strong>를 묻는 개발자  
 > 광운대학교 인공지능융합대학 정보융합학부 비주얼테크놀로지전공 · GPA **4.32 / 4.5**
 
 ## 👤 About Me
 
 - 🎓 광운대학교 정보융합학부 재학 (2024.03~)
-- 🛠 문제 정의 → 검증 → 제품화 → 회고 루프
+- 🛠 문제 정의 → 검증 → 제품화 → 회고 루프 · [@due_study_archive](https://www.instagram.com/due_study_archive/)
 - 📬 Email: **dlwldn4824@naver.com** · GitHub: **[dlwldn4824](https://github.com/dlwldn4824)**
 
 ## 🛠️ Tech Stacks
@@ -50,8 +50,19 @@
 
 ### Web · 실사용
 - **[밴드 예약·공연 관리](https://github.com/dlwldn4824/band)** — 게스트 예약·체크인·셋리스트 (노을 운영진)
-- **[PinTime](https://github.com/dlwldn4824/pintime)** — 캘린더 일정 조율
+- **[PinTime](https://github.com/dlwldn4824/pintime)** — AI 일정 에이전트 · 조율→확정→캘린더 원터치 ([라이브](https://pintime.vercel.app) · [피치](https://pintime.vercel.app/pitch.html))
 - **CO-SHOW 2025** — 전시회 안내 웹 · [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe) / [HCI-UX](https://github.com/dlwldn4824/HCI-UX)
+
+## 🗂️ 프로젝트 이력
+
+| 시기 | 프로젝트 | 한 줄 |
+|------|----------|--------|
+| 2026 | [HOPE](https://github.com/dlwldn4824/HOPE_organization) | 아동 조음 AI 보조 · 보조공학·HUSS 장려상 |
+| 2026 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) | 지자체 CCTV·공공데이터 CV · 컨소시엄 대상 |
+| 2026 | [답변등기](https://github.com/dlwldn4824/kb_AI_challenge) | KB AI Challenge · 승인·봉인·발송 콘솔 |
+| 2026 | [PinTime](https://github.com/dlwldn4824/pintime) | 캘린더 기반 일정 조율 · 공유 링크 UX |
+| 2025– | [밴드 예약·공연 관리](https://github.com/dlwldn4824/band) | 노을 동아리 실사용 예약·체크인 |
+| 2025 | [HCI-UX / Temi-Tell-Me](https://github.com/dlwldn4824/HCI-UX) | Temi 도슨트 · CO-SHOW 현장 UX 평가 |
 
 ### 전공 · 기타
 - **[기계학습 — 디저트 소비 예측](https://github.com/dlwldn4824/machine_learning)** — 서울시 상권 데이터 ML 모델 비교
@@ -106,6 +117,7 @@
 - **HOPE** — Assistive tech & HUSS AI awards (team lead)
 - **Smart Icheon Care** — Intelligent Robot Consortium Grand Prize
 - **Answer Registry** — KB AI Challenge · seal & dispatch console
+- **PinTime** — calendar scheduling agent ([pintime](https://github.com/dlwldn4824/pintime) · [live](https://pintime.vercel.app))
 - **Band reservation web** — club ops product ([band](https://github.com/dlwldn4824/band))
 
 ## Teaching
