@@ -1,152 +1,109 @@
 # 이지우 | Lee-Jiwoo
 
+> AI가 답을 던지는 시대에 **왜?**를 묻는 개발자  
+> 광운대학교 인공지능융합대학 정보융합학부 비주얼테크놀로지전공 · GPA **4.32 / 4.5**
+
 ## 👤 About Me
 
-- 🎓 광운대학교 정보융합학부 재학
+- 🎓 광운대학교 정보융합학부 재학 (2024.03~)
+- 🛠 문제 정의 → 검증 → 제품화 → 회고 루프
+- 📬 Email: **dlwldn4824@naver.com** · GitHub: **[dlwldn4824](https://github.com/dlwldn4824)**
 
 ## 🛠️ Tech Stacks
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
+
+## 🏆 주요 수상 · 프로젝트 연결
+
+| 수상 | 시기 | 프로젝트 |
+|------|------|----------|
+| **보조공학 장려상** | 2026.07.22 | [HOPE](https://github.com/dlwldn4824/HOPE_organization) |
+| **HUSS AI 경진대회 장려상** (본선 07.01–07.03) | 2026.07 | [HOPE](https://github.com/dlwldn4824/HOPE_organization) |
+| **지능형 로봇 컨소시엄 대상** | 2026.06.26 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) |
+| 마이크로모듈 초급 SS급 | 2025.12 | 지능형로봇사업단 |
+| 매치업 심화과정 우수상 (실무보고서·포스터) | 2025.05.29 | 광운대 |
+| Dean’s List | 2024.12 | 광운대 |
+| 창업 동아리 경진대회 장려상 | 2024.12 | 광운대 |
+| 글쓰기 대회 가작(산문) | 2024.05 | 광운대 |
+| 성적 우수 장학금 | 2024.09 · 2025.06 · 2025.12 | 광운대 |
+
+## 🚀 프로젝트 (카테고리)
+
+### AI · ML · CV · 음성
+- **[HOPE](https://github.com/dlwldn4824/HOPE_organization)** — 아동 조음 AI 보조 · 보조공학·HUSS AI 장려상 · 팀장
+- **[Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care)** — 지자체 CCTV·공공데이터 CV · 컨소시엄 대상
+- **[WJVOX](https://github.com/KWwoojin/project)** — 음성 학습·infer·공유 (협업)
+
+### AI × 서비스 (금융 · 신뢰 · 보안)
+- **[답변등기](https://github.com/dlwldn4824/kb_AI_challenge)** — KB AI Challenge · 승인·봉인·발송 콘솔
+- **[iM Ready](https://github.com/ik-s/iM-Ready)** — 피싱 백신 + 골든타임 (협업)
+
+### Web · 실사용
+- **[밴드 예약·공연 관리](https://github.com/dlwldn4824/band)** — 게스트 예약·체크인·셋리스트 (노을 운영진)
+- **[PinTime](https://github.com/dlwldn4824/pintime)** — 캘린더 일정 조율
+- **CO-SHOW 2025** — 전시회 안내 웹 · [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe) / [HCI-UX](https://github.com/dlwldn4824/HCI-UX)
+
+### 전공 · 기타
+- 기계학습 · 텍스트마이닝 Multi-Agent · 오픈소스 셋리스트 추천 · 창업캡스톤 Cam-Kit 등
+
+## 💻 대외활동
+
+### 진행 중
+- **LG AIMERS 9기** (2026.07~)
+- **HOPE** 보조공학 경진 · HUSS AI 경진 (장려)
+- KT 희망나눔재단 랜선나눔캠퍼스 대학생 멘토 (2026.07~09)
+
+### 광운대학교 대학혁신 서포터즈
+**2025.06 ~ 현재**
+- 대학 프로그램 홍보 및 재학생 지원·멘토링
 
 ## 📚 교육 경력
 
 ### 에듀탑 온라인 화상과외
 **2024.09 ~ 2025.12**
-
-- 초·중·고등학생 대상 온라인 수학 수업 진행
-- 약 10명의 학생을 담당하며 개별 맞춤형 학습 지도 수행
-- 학생 수준에 따른 진도 관리 및 학습 코칭 진행
+- 초·중·고 수학 · 약 10명 맞춤 지도·진도 관리
 
 ### 월계 채움학원
 **2024.07 ~ 2025.12**
-
-- 수학학원 조교 활동
-- 예비 고3 학생 15~20명 담당
-- 문제 풀이 지도 및 학습 상담 지원
+- 수학 조교 · 예비 고3 15~20명 풀이·상담 지원
 
 ### 개인 과외 (김과외 · 자란다 멘토)
 **2023.08 ~ 2025.06**
-
-- 초등학교 3·5학년 수학 과외
-- 고등학생 국어·수학 과외
-- 어린이집 3·5세 영어 보육 활동
-- 학생 및 보호자와 지속적인 소통을 통한 맞춤형 학습 지원
-
-## 💻 대외활동(-ing)
-
-### HOPE 보조공학 경진대회 (2026.07.22)
-### HUSS AI 경진대회 본선 진출(2026.07.01-2026.07.03)
-### LG aimers 9기 
-### HUSS 로컬 임팩트 아이디어톤
-
-## 💻 대외활동
-
-### 광운대학교 대학혁신 서포터즈
-**2025.06 ~ 현재**
-
-- 대학 프로그램 홍보 및 재학생 지원 활동 참여
-- 학생들과의 소통 및 멘토링 활동 수행
-
-## 🚀 프로젝트
-
-### CO-SHOW 2025 전시회 웹 애플리케이션
-- React 기반 전시회 안내 및 행사 정보 제공 웹 애플리케이션 개발
-- 전시 일정, 이벤트, 사진 및 장소 정보를 사용자 친화적으로 제공
-
-### 밴드 예약 관리 프로젝트
-- 밴드 합주 및 공연 일정 관리를 위한 예약 시스템 개발
-- 예약 현황 조회, 일정 조율 및 사용자 편의 기능 구현
-
-## 🏆 수상 경력
-
-### 마이크로모듈 초급 SS급
-**광운대학교 / 지능형로봇사업단**
-- 2025.12
-
-### 성적 우수 장학금
-**광운대학교**
-- 2025.12
-- 2025.06
-- 2024.09
-
-### 매치업 심화과정 경진대회 (로봇 분야)
-- 2025.05.29
-- 실무보고서 부문 우수상
-- 포스터 부문 우수상
-
-### Dean's List 선정
-**광운대학교**
-- 2024.12
-- 우수 학업 성취 학생 선정
-
-### 창업 동아리 경진대회 장려상
-**광운대학교**
-- 2024.12
-
-### 글쓰기 대회 가작 (산문 부문)
-**광운대학교**
-- 2024.05
+- 초등 수학 · 고등 국·수 · 어린이집 영어 보육
 
 ## 📫 Contact
 
 - Email : **dlwldn4824@naver.com**
-- GitHub : **github.com/dlwldn4824**
+- GitHub : **[github.com/dlwldn4824](https://github.com/dlwldn4824)**
+
+---
 
 # English Version
 
-## 👤 About Me
+## About Me
+- Visual Technology / Information Convergence, Kwangwoon University
+- GPA 4.32 / 4.5 · Asks **why** before shipping AI answers
 
-- 🎓 Computer Science Student at **Kwangwoon University**
+## Highlights
+- **HOPE** — Assistive tech & HUSS AI awards (team lead)
+- **Smart Icheon Care** — Intelligent Robot Consortium Grand Prize
+- **Answer Registry** — KB AI Challenge · seal & dispatch console
+- **Band reservation web** — club ops product ([band](https://github.com/dlwldn4824/band))
 
-## 🚀 Projects
+## Teaching
+- EduTop online math tutoring (2024.09–2025.12)
+- Wolgye Chaeum Academy TA (2024.07–2025.12)
+- Private tutor / Jaranda mentor (2023.08–2025.06)
 
-### CO-SHOW 2025 Exhibition Web Application
-- Developed a React-based web application for exhibition guidance and event information.
-
-### Band Reservation Management System
-- Developed a reservation system for managing band practice and performance schedules.
-
-## 📚 Teaching History
-
-### EduTop Online Tutoring
-**Sep 2024 – Dec 2025**
-
-- Conducted online mathematics lessons for elementary, middle, and high school students.
-
-### Wolgye Chaeum Academy
-**Jul 2024 – Dec 2025**
-
-- Served as a teaching assistant at a mathematics academy.
-
-### Private Tutor (Kimgwaoe & Jaranda Mentor)
-**Aug 2023 – Jun 2025**
-
-- Provided individualized learning support through continuous communication with students and parents.
-
-## 💻 Extracurricular Activities
-
-### Kwangwoon University Innovation Supporters
-**Jun 2025 – Present**
-
-- Participating in university support and mentoring activities.
-
-## 🏆 Awards
-
-- Academic Excellence Scholarship (Sep 2024, Jun 2025, Dec 2025)
-- Match-Up Advanced Course Competition – Excellent Award (May 2025)
-- Dean's List (Dec 2024)
-- Encouragement Award – Startup Club Competition (Dec 2024)
-- Honorable Mention – Writing Competition (May 2024)
-
-## 📫 Contact
-
-- Email : **dlwldn4824@naver.com**
-- GitHub : **github.com/dlwldn4824**
+## Contact
+- Email: dlwldn4824@naver.com
