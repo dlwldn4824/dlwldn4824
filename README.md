@@ -54,7 +54,11 @@
 - **CO-SHOW 2025** — 전시회 안내 웹 · [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe) / [HCI-UX](https://github.com/dlwldn4824/HCI-UX)
 
 ### 전공 · 기타
-- 기계학습 · 텍스트마이닝 Multi-Agent · 오픈소스 셋리스트 추천 · 창업캡스톤 Cam-Kit 등
+- **[기계학습 — 디저트 소비 예측](https://github.com/dlwldn4824/machine_learning)** — 서울시 상권 데이터 ML 모델 비교
+- **[텍스트마이닝 Multi-Agent](https://github.com/dlwldn4824/TM-MultiLayer-MentalHealth)** — Single LLM vs Multi-Agent+RAG 정신건강 평가 ([팀 레포 yyeonseoo/TM](https://github.com/yyeonseoo/TM))
+- **[오픈소스 셋리스트 추천](https://github.com/dlwldn4824/opensource_final)** — 552곡 커버곡·믹싱 추천 (FastAPI · Docker) · [CRUD 실습](https://github.com/dlwldn4824/open-source-fastapi-docker)
+- **[Cam-Kit](https://github.com/bhw119/Cam-Kit)** — 창업캡스톤 · 캠퍼스 소분 공동구매
+- **[환불원정대](https://github.com/kw-ic-info/25-team-refund-ranger)** — 정딥 팀플 · 뉴스 분석 대시보드 (팀장)
 
 ## 💻 대외활동
 
