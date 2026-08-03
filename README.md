@@ -51,7 +51,13 @@
 ### Web · 실사용
 - **[밴드 예약·공연 관리](https://github.com/dlwldn4824/band)** — 게스트 예약·체크인·셋리스트 (노을 운영진)
 - **[PinTime](https://github.com/dlwldn4824/pintime)** — AI 일정 에이전트 · 조율→확정→캘린더 원터치 ([라이브](https://pintime.vercel.app) · [피치](https://pintime.vercel.app/pitch.html))
-- **CO-SHOW 2025** — 전시회 안내 웹 · [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe) / [HCI-UX](https://github.com/dlwldn4824/HCI-UX)
+- **CO-SHOW 2025** — 전시회 안내 웹 · [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe) / [HCI-UX](https://github.com/dlwldn4824/HCI-UX) / [coshow](https://github.com/dlwldn4824/coshow)
+
+### 로봇 · HCI (모바일로봇 TEMI)
+- **[mobile_robot_temi](https://github.com/dlwldn4824/mobile_robot_temi)** · **[팀 레포 mobile-robot](https://github.com/yyeonseoo/mobile-robot)** — TEMI 길안내(18존) · QR 스탬프 랠리 · 줄서기·이벤트 추천
+- **[TemiTellMe](https://github.com/dlwldn4824/TemiTellMe)** — 전시장 도슨트·체험 큐레이션 웹
+- **[HCI-UX](https://github.com/dlwldn4824/HCI-UX)** / **[HCI](https://github.com/dlwldn4824/HCI)** — CO-SHOW 현장 UX 평가 · HCI 수업 산출물
+- 스택: React · Spring Boot · Capacitor/Android · Flutter(TEMI) · Claude API
 
 ## 🗂️ 프로젝트 이력
 
@@ -62,7 +68,8 @@
 | 2026 | [답변등기](https://github.com/dlwldn4824/kb_AI_challenge) | KB AI Challenge · 승인·봉인·발송 콘솔 |
 | 2026 | [PinTime](https://github.com/dlwldn4824/pintime) | 캘린더 기반 일정 조율 · 공유 링크 UX |
 | 2025– | [밴드 예약·공연 관리](https://github.com/dlwldn4824/band) | 노을 동아리 실사용 예약·체크인 |
-| 2025 | [HCI-UX / Temi-Tell-Me](https://github.com/dlwldn4824/HCI-UX) | Temi 도슨트 · CO-SHOW 현장 UX 평가 |
+| 2025 | [mobile_robot_temi](https://github.com/dlwldn4824/mobile_robot_temi) / [mobile-robot](https://github.com/yyeonseoo/mobile-robot) | TEMI 길안내·스탬프 랠리 · 모바일로봇 |
+| 2025 | [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe) / [HCI-UX](https://github.com/dlwldn4824/HCI-UX) | CO-SHOW 도슨트·현장 UX 평가 |
 
 ### 전공 · 기타
 - **[기계학습 — 디저트 소비 예측](https://github.com/dlwldn4824/machine_learning)** — 서울시 상권 데이터 ML 모델 비교
