@@ -125,6 +125,7 @@
 - **Smart Icheon Care** — Intelligent Robot Consortium Grand Prize
 - **Answer Registry** — KB AI Challenge · seal & dispatch console
 - **PinTime** — calendar scheduling agent ([pintime](https://github.com/dlwldn4824/pintime) · [live](https://pintime.vercel.app))
+- **TEMI Mobile Robot** — venue navigation & stamp rally ([mobile_robot_temi](https://github.com/dlwldn4824/mobile_robot_temi), [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe))
 - **Band reservation web** — club ops product ([band](https://github.com/dlwldn4824/band))
 
 ## Teaching
