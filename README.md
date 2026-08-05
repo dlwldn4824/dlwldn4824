@@ -55,7 +55,14 @@
 
 ### AI × 서비스 (금융 · 신뢰 · 보안)
 - **[답변등기](https://github.com/dlwldn4824/kb_AI_challenge)** — KB AI Challenge · 승인·봉인·발송 콘솔
-- **[iM Ready](https://github.com/ik-s/iM-Ready)** — 피싱 백신 + 골든타임 (협업)
+- **[iM Ready](https://github.com/ik-s/iM-Ready)** / **[iM-Shield](https://github.com/ik-s/iM-Shield)** — 피싱 백신 + 골든타임 · contributor
+
+### 전공 · 팀플 · 창업
+- **[TM Multi-Agent](https://github.com/dlwldn4824/TM-MultiLayer-MentalHealth)** / [yyeonseoo/TM](https://github.com/yyeonseoo/TM) — 텍스트마이닝 · Multi-Agent+RAG
+- **[기계학습](https://github.com/dlwldn4824/machine_learning)** — 디저트 소비 예측
+- **[Cam-Kit](https://github.com/bhw119/Cam-Kit)** — 창업캡스톤 · contributor
+- **[환불원정대](https://github.com/kw-ic-info/25-team-refund-ranger)** — 정딥 팀플 · 팀장
+- **[opensource_final](https://github.com/dlwldn4824/opensource_final)** — 셋리스트 추천
 
 ### Web · 실사용
 - **[밴드 예약·공연 관리](https://github.com/dlwldn4824/band)** — 게스트 예약·체크인·셋리스트 (노을 운영진)
@@ -69,25 +76,27 @@
 
 ## 🗂️ 프로젝트 이력
 
+> 본인 레포 + **contributor 협업 레포** 포함. `†` = 타 계정/조직 레포에 기여.
+
 | 시기 | 프로젝트 | 한 줄 |
 |------|----------|--------|
-| 2026– | [piching_machine](https://github.com/dlwldn4824/piching_machine) | LG Aimers 9기 · 투구 제구 확률 · **진행 중** |
-| 2026– | [NeSy-SMP-repro](https://github.com/dlwldn4824/NeSy-SMP-repro) | NeSy sepsis mortality 논문 재현·감사 · **진행 중** |
-| 2026 | [HOPE](https://github.com/dlwldn4824/HOPE_organization) | 아동 조음 AI 보조 · 보조공학·HUSS 장려상 |
-| 2026 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) | 지자체 CCTV·공공데이터 CV · 컨소시엄 대상 |
-| 2026 | [답변등기](https://github.com/dlwldn4824/kb_AI_challenge) | KB AI Challenge · 승인·봉인·발송 콘솔 |
 | 2026– | [PinTime](https://github.com/dlwldn4824/pintime) | AI 일정 에이전트 · 프로토타입 라이브 · **배포 목표 · 진행 중** |
-| 2025– | [밴드 예약·공연 관리](https://github.com/dlwldn4824/band) | 노을 동아리 실사용 예약·체크인 |
-| 2025 | [mobile_robot_temi](https://github.com/dlwldn4824/mobile_robot_temi) / [mobile-robot](https://github.com/yyeonseoo/mobile-robot) | TEMI 길안내·스탬프 랠리 · 모바일로봇 |
-| 2025 | [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe) / [HCI-UX](https://github.com/dlwldn4824/HCI-UX) | CO-SHOW 도슨트·현장 UX 평가 |
-
-### 전공 · 기타
-- **[NeSy-SMP 재현](https://github.com/dlwldn4824/NeSy-SMP-repro)** — Neuro-Symbolic 논문 재현 · **진행 중**
-- **[기계학습 — 디저트 소비 예측](https://github.com/dlwldn4824/machine_learning)** — 서울시 상권 데이터 ML 모델 비교
-- **[텍스트마이닝 Multi-Agent](https://github.com/dlwldn4824/TM-MultiLayer-MentalHealth)** — Single LLM vs Multi-Agent+RAG 정신건강 평가 ([팀 레포 yyeonseoo/TM](https://github.com/yyeonseoo/TM))
-- **[오픈소스 셋리스트 추천](https://github.com/dlwldn4824/opensource_final)** — 552곡 커버곡·믹싱 추천 (FastAPI · Docker) · [CRUD 실습](https://github.com/dlwldn4824/open-source-fastapi-docker)
-- **[Cam-Kit](https://github.com/bhw119/Cam-Kit)** — 창업캡스톤 · 캠퍼스 소분 공동구매
-- **[환불원정대](https://github.com/kw-ic-info/25-team-refund-ranger)** — 정딥 팀플 · 뉴스 분석 대시보드 (팀장)
+| 2026– | [piching_machine](https://github.com/dlwldn4824/piching_machine) | LG Aimers 9기 Phase2 · 투구 제구 확률 · **진행 중** |
+| 2026– | [NeSy-SMP-repro](https://github.com/dlwldn4824/NeSy-SMP-repro) | NeSy sepsis mortality 논문 재현·감사 · **진행 중** |
+| 2026 | [HOPE](https://github.com/dlwldn4824/HOPE_organization) | 아동 조음 AI 보조 · 보조공학·HUSS 장려상 · **팀장** |
+| 2026 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) | 지자체 CCTV·공공데이터 CV · 컨소시엄 **대상** |
+| 2026 | [답변등기](https://github.com/dlwldn4824/kb_AI_challenge) | KB AI Challenge · 승인·봉인·발송 콘솔 |
+| 2026 | † [iM Ready](https://github.com/ik-s/iM-Ready) / [iM-Shield](https://github.com/ik-s/iM-Shield) | 피싱 백신 + 골든타임 · **contributor** |
+| 2026 | † [WJVOX](https://github.com/KWwoojin/project) | 음성 학습·infer·공유 · **contributor** |
+| 2026 | [TM Multi-Agent](https://github.com/dlwldn4824/TM-MultiLayer-MentalHealth) / † [yyeonseoo/TM](https://github.com/yyeonseoo/TM) | 텍스트마이닝 · Single vs Multi-Agent+RAG |
+| 2026 | [기계학습 — 디저트 소비](https://github.com/dlwldn4824/machine_learning) | 서울시 상권 데이터 ML 모델 비교 |
+| 2025– | [밴드 예약·공연 관리](https://github.com/dlwldn4824/band) · [Band-Info](https://github.com/dlwldn4824/Band-Info) | 노을 동아리 실사용 예약·체크인 |
+| 2025 | [mobile_robot_temi](https://github.com/dlwldn4824/mobile_robot_temi) / † [mobile-robot](https://github.com/yyeonseoo/mobile-robot) | TEMI 길안내·스탬프 랠리 · **팀 레포 기여** |
+| 2025 | [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe) / [HCI-UX](https://github.com/dlwldn4824/HCI-UX) / [coshow](https://github.com/dlwldn4824/coshow) / [HCI](https://github.com/dlwldn4824/HCI) | CO-SHOW 도슨트·현장 UX 평가 |
+| 2025 | † [Cam-Kit](https://github.com/bhw119/Cam-Kit) | 창업캡스톤 · 캠퍼스 소분 공동구매 · **contributor** |
+| 2025 | † [환불원정대](https://github.com/kw-ic-info/25-team-refund-ranger) | 정딥 뉴스 분석 대시보드 · **팀장** |
+| 2025 | [opensource_final](https://github.com/dlwldn4824/opensource_final) · [fastapi-docker](https://github.com/dlwldn4824/open-source-fastapi-docker) | 셋리스트 추천 · FastAPI/Docker 실습 |
+| 2024–25 | [창의설계·오픈소스·UMC](https://github.com/dlwldn4824/creative_py_project) 등 | `Open_Source_*` · `future_cv` · `9th_web` 실습 묶음 |
 
 ## 💻 대외활동
 
@@ -135,9 +144,10 @@
 - **HOPE** — Assistive tech & HUSS AI awards (team lead)
 - **Smart Icheon Care** — Intelligent Robot Consortium Grand Prize
 - **Answer Registry** — KB AI Challenge · seal & dispatch console
-- **PinTime** — calendar scheduling agent ([pintime](https://github.com/dlwldn4824/pintime) · [live](https://pintime.vercel.app))
-- **TEMI Mobile Robot** — venue navigation & stamp rally ([mobile_robot_temi](https://github.com/dlwldn4824/mobile_robot_temi), [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe))
-- **Band reservation web** — club ops product ([band](https://github.com/dlwldn4824/band))
+- **PinTime** — scheduling agent in progress ([pintime](https://github.com/dlwldn4824/pintime) · [live](https://pintime.vercel.app))
+- **TEMI Mobile Robot** — venue navigation & stamp rally ([mobile_robot_temi](https://github.com/dlwldn4824/mobile_robot_temi), [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe), [yyeonseoo/mobile-robot](https://github.com/yyeonseoo/mobile-robot))
+- **Band reservation web** — club ops ([band](https://github.com/dlwldn4824/band))
+- **Contributor:** [iM-Ready](https://github.com/ik-s/iM-Ready) · [WJVOX](https://github.com/KWwoojin/project) · [Cam-Kit](https://github.com/bhw119/Cam-Kit) · [refund-ranger](https://github.com/kw-ic-info/25-team-refund-ranger)
 
 ## Teaching
 - KT Hope Sharing Foundation Online Campus — AI coordinator & ML for 9th graders (2026.07–09)
