@@ -44,6 +44,9 @@
 - **[Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care)** — 지자체 CCTV·공공데이터 CV · 컨소시엄 대상
 - **[WJVOX](https://github.com/KWwoojin/project)** — 음성 학습·infer·공유 (협업)
 
+### 교육 · 챌린지 (진행 중)
+- **[piching_machine](https://github.com/dlwldn4824/piching_machine)** — LG Aimers 9기 Phase2 · 투구 제구 성공 확률 · E20+CatBoost
+
 ### 연구 · 논문 재현 (진행 중)
 - **[NeSy-SMP-repro](https://github.com/dlwldn4824/NeSy-SMP-repro)** — Neuro-symbolic sepsis mortality prediction 재현·감사 · Phase-3 gate / grounding / Colab ([Upstream](https://github.com/FabrizioDeSantis/NeSy-SMP))
 
@@ -66,6 +69,7 @@
 
 | 시기 | 프로젝트 | 한 줄 |
 |------|----------|--------|
+| 2026– | [piching_machine](https://github.com/dlwldn4824/piching_machine) | LG Aimers 9기 · 투구 제구 확률 · **진행 중** |
 | 2026– | [NeSy-SMP-repro](https://github.com/dlwldn4824/NeSy-SMP-repro) | NeSy sepsis mortality 논문 재현·감사 · **진행 중** |
 | 2026 | [HOPE](https://github.com/dlwldn4824/HOPE_organization) | 아동 조음 AI 보조 · 보조공학·HUSS 장려상 |
 | 2026 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) | 지자체 CCTV·공공데이터 CV · 컨소시엄 대상 |
@@ -86,7 +90,7 @@
 ## 💻 대외활동
 
 ### 진행 중
-- **LG AIMERS 9기** (2026.07~)
+- **LG AIMERS 9기** (2026.07~) · Phase2 [piching_machine](https://github.com/dlwldn4824/piching_machine) — 투구 제구 성공 확률 · **진행 중**
 - **광운대학교 대학혁신 서포터즈** (2025.06 ~ 현재) — 대학 프로그램 홍보·재학생 지원·멘토링
 
 ### 완료 · 수상
