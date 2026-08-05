@@ -44,6 +44,9 @@
 - **[Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care)** — 지자체 CCTV·공공데이터 CV · 컨소시엄 대상
 - **[WJVOX](https://github.com/KWwoojin/project)** — 음성 학습·infer·공유 (협업)
 
+### 연구 · 논문 재현 (진행 중)
+- **[NeSy-SMP-repro](https://github.com/dlwldn4824/NeSy-SMP-repro)** — Neuro-symbolic sepsis mortality prediction 재현·감사 · Phase-3 gate / grounding / Colab ([Upstream](https://github.com/FabrizioDeSantis/NeSy-SMP))
+
 ### AI × 서비스 (금융 · 신뢰 · 보안)
 - **[답변등기](https://github.com/dlwldn4824/kb_AI_challenge)** — KB AI Challenge · 승인·봉인·발송 콘솔
 - **[iM Ready](https://github.com/ik-s/iM-Ready)** — 피싱 백신 + 골든타임 (협업)
@@ -63,6 +66,7 @@
 
 | 시기 | 프로젝트 | 한 줄 |
 |------|----------|--------|
+| 2026– | [NeSy-SMP-repro](https://github.com/dlwldn4824/NeSy-SMP-repro) | NeSy sepsis mortality 논문 재현·감사 · **진행 중** |
 | 2026 | [HOPE](https://github.com/dlwldn4824/HOPE_organization) | 아동 조음 AI 보조 · 보조공학·HUSS 장려상 |
 | 2026 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) | 지자체 CCTV·공공데이터 CV · 컨소시엄 대상 |
 | 2026 | [답변등기](https://github.com/dlwldn4824/kb_AI_challenge) | KB AI Challenge · 승인·봉인·발송 콘솔 |
@@ -72,6 +76,7 @@
 | 2025 | [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe) / [HCI-UX](https://github.com/dlwldn4824/HCI-UX) | CO-SHOW 도슨트·현장 UX 평가 |
 
 ### 전공 · 기타
+- **[NeSy-SMP 재현](https://github.com/dlwldn4824/NeSy-SMP-repro)** — Neuro-Symbolic 논문 재현 · **진행 중**
 - **[기계학습 — 디저트 소비 예측](https://github.com/dlwldn4824/machine_learning)** — 서울시 상권 데이터 ML 모델 비교
 - **[텍스트마이닝 Multi-Agent](https://github.com/dlwldn4824/TM-MultiLayer-MentalHealth)** — Single LLM vs Multi-Agent+RAG 정신건강 평가 ([팀 레포 yyeonseoo/TM](https://github.com/yyeonseoo/TM))
 - **[오픈소스 셋리스트 추천](https://github.com/dlwldn4824/opensource_final)** — 552곡 커버곡·믹싱 추천 (FastAPI · Docker) · [CRUD 실습](https://github.com/dlwldn4824/open-source-fastapi-docker)
