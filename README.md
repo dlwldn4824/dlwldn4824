@@ -44,6 +44,9 @@
 - **[Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care)** — 지자체 CCTV·공공데이터 CV · 컨소시엄 대상
 - **[WJVOX](https://github.com/KWwoojin/project)** — 음성 학습·infer·공유 (협업)
 
+### 제품 · 배포 (진행 중)
+- **[PinTime](https://github.com/dlwldn4824/pintime)** — AI 일정 에이전트 · 프로토타입 배포 운영 · 서비스화 **진행 중**
+
 ### 교육 · 챌린지 (진행 중)
 - **[piching_machine](https://github.com/dlwldn4824/piching_machine)** — LG Aimers 9기 Phase2 · 투구 제구 성공 확률 · E20+CatBoost
 
@@ -56,7 +59,6 @@
 
 ### Web · 실사용
 - **[밴드 예약·공연 관리](https://github.com/dlwldn4824/band)** — 게스트 예약·체크인·셋리스트 (노을 운영진)
-- **[PinTime](https://github.com/dlwldn4824/pintime)** — AI 일정 에이전트 · 조율→확정→캘린더 원터치 ([라이브](https://pintime.vercel.app) · [피치](https://pintime.vercel.app/pitch.html))
 - **CO-SHOW 2025** — 전시회 안내 웹 · [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe) / [HCI-UX](https://github.com/dlwldn4824/HCI-UX) / [coshow](https://github.com/dlwldn4824/coshow)
 
 ### 로봇 · HCI (모바일로봇 TEMI)
@@ -74,7 +76,7 @@
 | 2026 | [HOPE](https://github.com/dlwldn4824/HOPE_organization) | 아동 조음 AI 보조 · 보조공학·HUSS 장려상 |
 | 2026 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) | 지자체 CCTV·공공데이터 CV · 컨소시엄 대상 |
 | 2026 | [답변등기](https://github.com/dlwldn4824/kb_AI_challenge) | KB AI Challenge · 승인·봉인·발송 콘솔 |
-| 2026 | [PinTime](https://github.com/dlwldn4824/pintime) | 캘린더 기반 일정 조율 · 공유 링크 UX |
+| 2026– | [PinTime](https://github.com/dlwldn4824/pintime) | AI 일정 에이전트 · 프로토타입 라이브 · **배포 목표 · 진행 중** |
 | 2025– | [밴드 예약·공연 관리](https://github.com/dlwldn4824/band) | 노을 동아리 실사용 예약·체크인 |
 | 2025 | [mobile_robot_temi](https://github.com/dlwldn4824/mobile_robot_temi) / [mobile-robot](https://github.com/yyeonseoo/mobile-robot) | TEMI 길안내·스탬프 랠리 · 모바일로봇 |
 | 2025 | [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe) / [HCI-UX](https://github.com/dlwldn4824/HCI-UX) | CO-SHOW 도슨트·현장 UX 평가 |
