@@ -37,62 +37,46 @@
 | 글쓰기 대회 가작(산문) | 2024.05 | 광운대 |
 | 성적 우수 장학금 | 2024.09 · 2025.06 · 2025.12 | 광운대 |
 
-## 🚀 프로젝트 (카테고리)
+## 🚀 프로젝트
 
-### AI · ML · CV · 음성
-- **[HOPE](https://github.com/dlwldn4824/HOPE_organization)** — 아동 조음 AI 보조 · 보조공학·HUSS AI 장려상 · 팀장
-- **[Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care)** — 지자체 CCTV·공공데이터 CV · 컨소시엄 대상
-- **[WJVOX](https://github.com/KWwoojin/project)** — 음성 학습·infer·공유 (협업)
+> 카테고리별 정리. `†` = 타 계정/조직 레포 **contributor**.
 
-### 제품 · 배포 (진행 중)
-- **[PinTime](https://github.com/dlwldn4824/pintime)** — AI 일정 에이전트 · 프로토타입 배포 운영 · 서비스화 **진행 중**
-
-### 교육 · 챌린지 (진행 중)
-- **[piching_machine](https://github.com/dlwldn4824/piching_machine)** — LG Aimers 9기 Phase2 · 투구 제구 성공 확률 · E20+CatBoost
-
-### 연구 · 논문 재현 (진행 중)
-- **[NeSy-SMP-repro](https://github.com/dlwldn4824/NeSy-SMP-repro)** — Neuro-symbolic sepsis mortality prediction 재현·감사 · Phase-3 gate / grounding / Colab ([Upstream](https://github.com/FabrizioDeSantis/NeSy-SMP))
-
-### AI × 서비스 (금융 · 신뢰 · 보안)
-- **[답변등기](https://github.com/dlwldn4824/kb_AI_challenge)** — KB AI Challenge · 승인·봉인·발송 콘솔
-- **[iM Ready](https://github.com/ik-s/iM-Ready)** / **[iM-Shield](https://github.com/ik-s/iM-Shield)** — 피싱 백신 + 골든타임 · contributor
-
-### 전공 · 팀플 · 창업
-- **[TM Multi-Agent](https://github.com/dlwldn4824/TM-MultiLayer-MentalHealth)** / [yyeonseoo/TM](https://github.com/yyeonseoo/TM) — 텍스트마이닝 · Multi-Agent+RAG
-- **[기계학습](https://github.com/dlwldn4824/machine_learning)** — 디저트 소비 예측
-- **[Cam-Kit](https://github.com/bhw119/Cam-Kit)** — 창업캡스톤 · contributor
-- **[환불원정대](https://github.com/kw-ic-info/25-team-refund-ranger)** — 정딥 팀플 · 팀장
-- **[opensource_final](https://github.com/dlwldn4824/opensource_final)** — 셋리스트 추천
-
-### Web · 실사용
-- **[밴드 예약·공연 관리](https://github.com/dlwldn4824/band)** — 게스트 예약·체크인·셋리스트 (노을 운영진)
-- **CO-SHOW 2025** — 전시회 안내 웹 · [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe) / [HCI-UX](https://github.com/dlwldn4824/HCI-UX) / [coshow](https://github.com/dlwldn4824/coshow)
-
-### 로봇 · HCI (모바일로봇 TEMI)
-- **[mobile_robot_temi](https://github.com/dlwldn4824/mobile_robot_temi)** · **[팀 레포 mobile-robot](https://github.com/yyeonseoo/mobile-robot)** — TEMI 길안내(18존) · QR 스탬프 랠리 · 줄서기·이벤트 추천
-- **[TemiTellMe](https://github.com/dlwldn4824/TemiTellMe)** — 전시장 도슨트·체험 큐레이션 웹
-- **[HCI-UX](https://github.com/dlwldn4824/HCI-UX)** / **[HCI](https://github.com/dlwldn4824/HCI)** — CO-SHOW 현장 UX 평가 · HCI 수업 산출물
-- 스택: React · Spring Boot · Capacitor/Android · Flutter(TEMI) · Claude API
-
-## 🗂️ 프로젝트 이력
-
-> 본인 레포 + **contributor 협업 레포** 포함. `†` = 타 계정/조직 레포에 기여.
-
+### 제품 · 배포
 | 시기 | 프로젝트 | 한 줄 |
 |------|----------|--------|
-| 2026– | [PinTime](https://github.com/dlwldn4824/pintime) | AI 일정 에이전트 · 프로토타입 라이브 · **배포 목표 · 진행 중** |
-| 2026– | [piching_machine](https://github.com/dlwldn4824/piching_machine) | LG Aimers 9기 Phase2 · 투구 제구 확률 · **진행 중** |
-| 2026– | [NeSy-SMP-repro](https://github.com/dlwldn4824/NeSy-SMP-repro) | NeSy sepsis mortality 논문 재현·감사 · **진행 중** |
+| 2026– | [PinTime](https://github.com/dlwldn4824/pintime) · [live](https://pintime.vercel.app) | AI 일정 에이전트 · 프로토타입 라이브 · **배포 목표 · 진행 중** |
+| 2025– | [밴드 예약·공연 관리](https://github.com/dlwldn4824/band) · [Band-Info](https://github.com/dlwldn4824/Band-Info) | 노을 동아리 실사용 · 게스트 예약·체크인·셋리스트 |
+
+### AI · ML · CV · 음성
+| 시기 | 프로젝트 | 한 줄 |
+|------|----------|--------|
 | 2026 | [HOPE](https://github.com/dlwldn4824/HOPE_organization) | 아동 조음 AI 보조 · 보조공학·HUSS 장려상 · **팀장** |
 | 2026 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) | 지자체 CCTV·공공데이터 CV · 컨소시엄 **대상** |
+| 2026 | † [WJVOX](https://github.com/KWwoojin/project) | 음성 학습·infer·공유 · **contributor** |
+
+### AI × 서비스 (금융 · 신뢰 · 보안)
+| 시기 | 프로젝트 | 한 줄 |
+|------|----------|--------|
 | 2026 | [답변등기](https://github.com/dlwldn4824/kb_AI_challenge) | KB AI Challenge · 승인·봉인·발송 콘솔 |
 | 2026 | † [iM Ready](https://github.com/ik-s/iM-Ready) / [iM-Shield](https://github.com/ik-s/iM-Shield) | 피싱 백신 + 골든타임 · **contributor** |
-| 2026 | † [WJVOX](https://github.com/KWwoojin/project) | 음성 학습·infer·공유 · **contributor** |
-| 2026 | [TM Multi-Agent](https://github.com/dlwldn4824/TM-MultiLayer-MentalHealth) / † [yyeonseoo/TM](https://github.com/yyeonseoo/TM) | 텍스트마이닝 · Single vs Multi-Agent+RAG |
-| 2026 | [기계학습 — 디저트 소비](https://github.com/dlwldn4824/machine_learning) | 서울시 상권 데이터 ML 모델 비교 |
-| 2025– | [밴드 예약·공연 관리](https://github.com/dlwldn4824/band) · [Band-Info](https://github.com/dlwldn4824/Band-Info) | 노을 동아리 실사용 예약·체크인 |
+
+### 로봇 · HCI (TEMI · CO-SHOW)
+| 시기 | 프로젝트 | 한 줄 |
+|------|----------|--------|
 | 2025 | [mobile_robot_temi](https://github.com/dlwldn4824/mobile_robot_temi) / † [mobile-robot](https://github.com/yyeonseoo/mobile-robot) | TEMI 길안내·스탬프 랠리 · **팀 레포 기여** |
 | 2025 | [TemiTellMe](https://github.com/dlwldn4824/TemiTellMe) / [HCI-UX](https://github.com/dlwldn4824/HCI-UX) / [coshow](https://github.com/dlwldn4824/coshow) / [HCI](https://github.com/dlwldn4824/HCI) | CO-SHOW 도슨트·현장 UX 평가 |
+
+### 연구 · 교육 · 챌린지
+| 시기 | 프로젝트 | 한 줄 |
+|------|----------|--------|
+| 2026– | [NeSy-SMP-repro](https://github.com/dlwldn4824/NeSy-SMP-repro) | NeSy sepsis mortality 논문 재현·감사 · **진행 중** |
+| 2026– | [piching_machine](https://github.com/dlwldn4824/piching_machine) | LG Aimers 9기 Phase2 · 투구 제구 확률 · **진행 중** |
+| 2026 | [TM Multi-Agent](https://github.com/dlwldn4824/TM-MultiLayer-MentalHealth) / † [yyeonseoo/TM](https://github.com/yyeonseoo/TM) | 텍스트마이닝 · Single vs Multi-Agent+RAG |
+| 2026 | [기계학습 — 디저트 소비](https://github.com/dlwldn4824/machine_learning) | 서울시 상권 데이터 ML 모델 비교 |
+
+### 전공 · 팀플 · 창업
+| 시기 | 프로젝트 | 한 줄 |
+|------|----------|--------|
 | 2025 | † [Cam-Kit](https://github.com/bhw119/Cam-Kit) | 창업캡스톤 · 캠퍼스 소분 공동구매 · **contributor** |
 | 2025 | † [환불원정대](https://github.com/kw-ic-info/25-team-refund-ranger) | 정딥 뉴스 분석 대시보드 · **팀장** |
 | 2025 | [opensource_final](https://github.com/dlwldn4824/opensource_final) · [fastapi-docker](https://github.com/dlwldn4824/open-source-fastapi-docker) | 셋리스트 추천 · FastAPI/Docker 실습 |
