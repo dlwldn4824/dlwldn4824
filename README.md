@@ -29,6 +29,7 @@
 |------|------|----------|
 | **보조공학 장려상** | 2026.07.22 | [HOPE](https://github.com/dlwldn4824/HOPE_organization) |
 | **HUSS AI 경진대회 장려상** (본선 07.01–07.03) | 2026.07 | [HOPE](https://github.com/dlwldn4824/HOPE_organization) |
+| **파이썬 SW 활용 경진대회 심화 우수상** | **2026.08.07** | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) |
 | **지능형 로봇 컨소시엄 대상** | 2026.06.26 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) |
 | 마이크로모듈 초급 SS급 | 2025.12 | 지능형로봇사업단 |
 | 매치업 심화과정 우수상 (실무보고서·포스터) | 2025.05.29 | 광운대 |
@@ -52,7 +53,7 @@
 | 시기 | 프로젝트 | 문제 | AI 활용 | 수치·개선 |
 |------|----------|------|---------|-----------|
 | 2026 | [HOPE](https://github.com/dlwldn4824/HOPE_organization) | 치료실 ~1% 시간 외 가정에 **객관 발음 피드백 공백** | STT 보정 한계를 피하고 **Wav2Vec2-CTC·음소 정렬·PCC/PER**로 ‘어떻게 발음했는지’ 평가 · 게임 UX | 문제검증(TF-IDF/LDA)→기능 매핑 · **보조공학·HUSS AI 장려×2** · 팀장 · 임상 KPI는 후속 |
-| 2026 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) | 넓은 구역·소수 인력 → 전수 순찰 불가 · **탐지≠행정 확정** | YOLO11s+ByteTrack로 **존재 탐지** · Risk로 줄 세움 · OCR 보조 · **확정은 HITL** | A/B all **0.4913**>filtered · test **F1 0.591 / mAP50 0.439** (1,892장) · ~**15.7 FPS** · 컨소시엄 **대상** |
+| 2026 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) | 넓은 구역·소수 인력 → 전수 순찰 불가 · **탐지≠행정 확정** | YOLO11s+ByteTrack로 **존재 탐지** · Risk로 줄 세움 · OCR 보조 · **확정은 HITL** | A/B all **0.4913**>filtered · test **F1 0.591 / mAP50 0.439** · ~**15.7 FPS** · 컨소시엄 **대상** · 파이썬 SW **심화 우수상** |
 | 2026 | † [WJVOX](https://github.com/KWwoojin/project) | 음성 학습·추론·공유 흐름이 제품 UI로 안 이어짐 | 음성 **infer 파이프라인**을 쓰는 프론트/UX 기여 | contributor · UI로 학습→infer→공유 동선 연결 |
 
 ### AI × 서비스 (금융 · 신뢰 · 보안)
@@ -91,7 +92,7 @@
 
 ### 완료 · 수상
 - **HOPE** — 보조공학 경진대회 장려상 (2026.07.22) · HUSS AI 경진대회 장려상 (본선 2026.07.01–07.03) · [레포](https://github.com/dlwldn4824/HOPE_organization)
-- **Smart Icheon Care** — 지능형 로봇 컨소시엄 대상 (2026.06.26) · [레포](https://github.com/dlwldn4824/smart_icheon_care)
+- **Smart Icheon Care** — 파이썬 SW 활용 경진대회 **심화 우수상** (2026.08.07) · 지능형 로봇 컨소시엄 대상 (2026.06.26) · [레포](https://github.com/dlwldn4824/smart_icheon_care)
 
 ## 📚 교육 경력
 
@@ -128,7 +129,7 @@
 ## Highlights
 - Frames work as **problem → appropriate AI → measurable gain** (see Projects tables)
 - **HOPE** — home articulation feedback gap · phoneme eval · dual awards (team lead)
-- **Smart Icheon Care** — detect≠confirm HITL · test F1 0.591 / mAP50 0.439 · Grand Prize
+- **Smart Icheon Care** — detect≠confirm HITL · F1 0.591 / mAP50 0.439 · Python SW Advanced Excellence + Consortium Grand Prize
 - **Answer Registry** — AI draft risk triage 1248→39 · deterministic seal/dispatch
 - **TM Multi-Agent** — Three-Agent Safety 4.83 / Empathy 4.31 · conditional revision ~6%
 - **PinTime** — rule agent closes schedule handoff · live prototype · productizing
