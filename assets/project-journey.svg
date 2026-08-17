@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="380" viewBox="0 0 960 380" role="img" aria-label="프로젝트 여정">
+<title>프로젝트 여정 · 2024–2026</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0B1220"/>
+    <stop offset="100%" stop-color="#152238"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.04"/>
+    <stop offset="60%" stop-color="#38BDF8" stop-opacity="0.16"/>
+    <stop offset="100%" stop-color="#34D399" stop-opacity="0.26"/>
+  </linearGradient>
+  <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#3D5A80" stop-opacity="0.4"/>
+    <stop offset="65%" stop-color="#38BDF8" stop-opacity="0.9"/>
+    <stop offset="100%" stop-color="#34D399" stop-opacity="1"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="960" height="380" rx="22" fill="url(#bg)"/>
+<circle cx="90" cy="30" r="110" fill="#38BDF8" opacity="0.06" filter="url(#blur)"/>
+<circle cx="860" cy="320" r="140" fill="#34D399" opacity="0.07" filter="url(#blur)"/>
+<text x="44" y="40" fill="#E8EEF7" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700" letter-spacing="-0.03em">프로젝트 여정</text>
+<text x="44" y="62" fill="#93A4BC" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="12.5">문제 정의 → 검증 → 구현 → 측정 → 회고</text>
+<rect x="842" y="26" width="74" height="26" rx="13" fill="#34D399"/>
+<text x="879" y="44" text-anchor="middle" fill="#042F2E" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="0.08em">NOW</text>
+<text x="110" y="364" fill="#93A4BC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" opacity="0.65">2024</text>
+<text x="360" y="364" fill="#93A4BC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" opacity="0.65">2025</text>
+<text x="640" y="364" fill="#93A4BC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" opacity="0.65">2026</text>
+<line x1="56" y1="344" x2="904" y2="344" stroke="#2A3B55" stroke-width="1" opacity="0.7"/>
+<path d="M 56.0,340 L 56.0,190.5 L 66.6,192.4 L 77.2,194.4 L 87.8,196.3 L 98.4,198.3 L 109.0,200.3 L 119.6,202.3 L 130.2,204.2 L 140.8,206.2 L 151.4,208.2 L 162.0,210.1 L 172.6,212.0 L 183.2,213.9 L 193.8,215.8 L 204.4,217.7 L 215.0,219.5 L 225.6,221.3 L 236.2,223.1 L 246.8,224.8 L 257.4,226.4 L 268.0,228.1 L 278.6,229.7 L 289.2,231.2 L 299.8,232.7 L 310.4,234.1 L 321.0,235.4 L 331.6,236.8 L 342.2,238.0 L 352.8,239.2 L 363.4,240.3 L 374.0,241.3 L 384.6,242.3 L 395.2,243.2 L 405.8,244.0 L 416.4,244.8 L 427.0,245.4 L 437.6,246.0 L 448.2,246.6 L 458.8,247.0 L 469.4,247.4 L 480.0,247.6 L 490.6,247.8 L 501.2,248.0 L 511.8,248.0 L 522.4,248.0 L 533.0,247.8 L 543.6,247.6 L 554.2,247.3 L 564.8,247.0 L 575.4,246.5 L 586.0,246.0 L 596.6,245.4 L 607.2,244.7 L 617.8,243.9 L 628.4,243.1 L 639.0,242.2 L 649.6,241.2 L 660.2,240.2 L 670.8,239.0 L 681.4,237.9 L 692.0,236.6 L 702.6,235.3 L 713.2,233.9 L 723.8,232.5 L 734.4,231.0 L 745.0,229.5 L 755.6,227.9 L 766.2,226.3 L 776.8,224.6 L 787.4,222.9 L 798.0,221.1 L 808.6,219.3 L 819.2,217.5 L 829.8,215.6 L 840.4,213.7 L 851.0,211.8 L 861.6,209.9 L 872.2,208.0 L 882.8,206.0 L 893.4,204.0 L 904.0,202.1 L 904.0,340 Z" fill="url(#glow)"/>
+<polyline fill="none" stroke="url(#rail)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" points="56.0,190.5 66.6,192.4 77.2,194.4 87.8,196.3 98.4,198.3 109.0,200.3 119.6,202.3 130.2,204.2 140.8,206.2 151.4,208.2 162.0,210.1 172.6,212.0 183.2,213.9 193.8,215.8 204.4,217.7 215.0,219.5 225.6,221.3 236.2,223.1 246.8,224.8 257.4,226.4 268.0,228.1 278.6,229.7 289.2,231.2 299.8,232.7 310.4,234.1 321.0,235.4 331.6,236.8 342.2,238.0 352.8,239.2 363.4,240.3 374.0,241.3 384.6,242.3 395.2,243.2 405.8,244.0 416.4,244.8 427.0,245.4 437.6,246.0 448.2,246.6 458.8,247.0 469.4,247.4 480.0,247.6 490.6,247.8 501.2,248.0 511.8,248.0 522.4,248.0 533.0,247.8 543.6,247.6 554.2,247.3 564.8,247.0 575.4,246.5 586.0,246.0 596.6,245.4 607.2,244.7 617.8,243.9 628.4,243.1 639.0,242.2 649.6,241.2 660.2,240.2 670.8,239.0 681.4,237.9 692.0,236.6 702.6,235.3 713.2,233.9 723.8,232.5 734.4,231.0 745.0,229.5 755.6,227.9 766.2,226.3 776.8,224.6 787.4,222.9 798.0,221.1 808.6,219.3 819.2,217.5 829.8,215.6 840.4,213.7 851.0,211.8 861.6,209.9 872.2,208.0 882.8,206.0 893.4,204.0 904.0,202.1"/>
+<circle cx="106.9" cy="199.9" r="9" fill="#101827" stroke="#38BDF8" stroke-width="2.6"/>
+<circle cx="106.9" cy="199.9" r="3.4" fill="#38BDF8"/>
+<line x1="106.9" y1="199.9" x2="106.9" y2="173.9" stroke="#2A3B55" stroke-width="1.6"/>
+<rect x="41.2" y="125.9" width="131.4" height="44" rx="11" fill="#101827" stroke="#2A3B55" stroke-width="1"/>
+<text x="106.9" y="143.9" text-anchor="middle" fill="#E8EEF7" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="700">Cam-Kit</text>
+<text x="106.9" y="159.9" text-anchor="middle" fill="#93A4BC" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="10.5">2024 · 창업 · 제품</text>
+<circle cx="225.6" cy="221.3" r="9" fill="#101827" stroke="#38BDF8" stroke-width="2.6"/>
+<circle cx="225.6" cy="221.3" r="3.4" fill="#38BDF8"/>
+<line x1="225.6" y1="221.3" x2="225.6" y2="247.3" stroke="#2A3B55" stroke-width="1.6"/>
+<rect x="158.1" y="253.3" width="135.1" height="44" rx="11" fill="#101827" stroke="#2A3B55" stroke-width="1"/>
+<text x="225.6" y="271.3" text-anchor="middle" fill="#E8EEF7" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="700">band</text>
+<text x="225.6" y="287.3" text-anchor="middle" fill="#93A4BC" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="10.5">2024– · 실사용 운영</text>
+<circle cx="361.3" cy="240.1" r="9" fill="#101827" stroke="#38BDF8" stroke-width="2.6"/>
+<circle cx="361.3" cy="240.1" r="3.4" fill="#38BDF8"/>
+<line x1="361.3" y1="240.1" x2="361.3" y2="214.1" stroke="#2A3B55" stroke-width="1.6"/>
+<rect x="296.4" y="166.1" width="129.8" height="44" rx="11" fill="#101827" stroke="#2A3B55" stroke-width="1"/>
+<text x="361.3" y="184.1" text-anchor="middle" fill="#E8EEF7" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="700">Temi</text>
+<text x="361.3" y="200.1" text-anchor="middle" fill="#93A4BC" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="10.5">2025 · 현장 · HCI</text>
+<circle cx="497.0" cy="247.9" r="9" fill="#101827" stroke="#38BDF8" stroke-width="2.6"/>
+<circle cx="497.0" cy="247.9" r="3.4" fill="#38BDF8"/>
+<line x1="497.0" y1="247.9" x2="497.0" y2="273.9" stroke="#2A3B55" stroke-width="1.6"/>
+<rect x="440.8" y="279.9" width="112.4" height="44" rx="11" fill="#101827" stroke="#2A3B55" stroke-width="1"/>
+<text x="497.0" y="297.9" text-anchor="middle" fill="#E8EEF7" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="700">답변등기</text>
+<text x="497.0" y="313.9" text-anchor="middle" fill="#93A4BC" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="10.5">KB · AI × 신뢰</text>
+<circle cx="615.7" cy="244.1" r="9" fill="#101827" stroke="#38BDF8" stroke-width="2.6"/>
+<circle cx="615.7" cy="244.1" r="3.4" fill="#38BDF8"/>
+<line x1="615.7" y1="244.1" x2="615.7" y2="218.1" stroke="#2A3B55" stroke-width="1.6"/>
+<rect x="555.8" y="170.1" width="119.8" height="44" rx="11" fill="#101827" stroke="#2A3B55" stroke-width="1"/>
+<text x="615.7" y="188.1" text-anchor="middle" fill="#E8EEF7" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="700">Smart Icheon</text>
+<text x="615.7" y="204.1" text-anchor="middle" fill="#93A4BC" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="10.5">06 · 대상 · 우수</text>
+<circle cx="734.4" cy="231.0" r="9" fill="#101827" stroke="#38BDF8" stroke-width="2.6"/>
+<circle cx="734.4" cy="231.0" r="3.4" fill="#38BDF8"/>
+<line x1="734.4" y1="231.0" x2="734.4" y2="257.0" stroke="#2A3B55" stroke-width="1.6"/>
+<rect x="684.0" y="263.0" width="100.8" height="44" rx="11" fill="#101827" stroke="#2A3B55" stroke-width="1"/>
+<text x="734.4" y="281.0" text-anchor="middle" fill="#E8EEF7" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="700">또박또박</text>
+<text x="734.4" y="297.0" text-anchor="middle" fill="#93A4BC" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="10.5">07 · 장려 ×2</text>
+<circle cx="853.1" cy="211.4" r="18" fill="#34D399" opacity="0.16"/>
+<circle cx="853.1" cy="211.4" r="9" fill="#101827" stroke="#34D399" stroke-width="2.6"/>
+<circle cx="853.1" cy="211.4" r="3.4" fill="#34D399"/>
+<line x1="853.1" y1="211.4" x2="853.1" y2="185.4" stroke="#2A3B55" stroke-width="1.6"/>
+<rect x="796.1" y="137.4" width="114.0" height="44" rx="11" fill="#101827" stroke="#2A3B55" stroke-width="1"/>
+<text x="853.1" y="155.4" text-anchor="middle" fill="#E8EEF7" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="700">VibeCheck</text>
+<text x="853.1" y="171.4" text-anchor="middle" fill="#93A4BC" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, ui-sans-serif, system-ui, sans-serif" font-size="10.5">08 · 해커톤 본선</text>
+</svg>
