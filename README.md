@@ -27,7 +27,7 @@ GPA **4.32 / 4.50** · Major **4.50 / 4.50**
 
 **[VibeCheck](https://github.com/dlwldn4824/view_check)** · [열어보기](https://view-check-three.vercel.app/)  
 바이브 코딩은 배포를 빨리 해주는데, 배포한 게 안전한지는 안 물어봅니다. 정책으로 실제로 때려보고, 사람이 승인한 뒤 같은 공격을 다시 넣습니다.  
-→ 코덱스 커뮤니티 해커톤 본선
+→ [코덱스](https://lnkd.in/p/gYjRgmVu) 커뮤니티 해커톤 본선
 
 **[Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care)**  
 넓은 지역을 소수 인력이 전수 순찰할 수는 없습니다. YOLO11s로 찾고, 위험한 것부터 사람이 확정합니다. F1 0.591, 약 15.7 FPS.  
@@ -46,7 +46,7 @@ AI 상담 초안을 전건 사람이 검수하면 지칩니다. AI는 초안과 
 | 시기 | 내용 | 관련 |
 | --- | --- | --- |
 | 2026.08 | [제1회 일상뒤집기 공모전 우수상](https://github.com/dlwldn4824/pintime) | [PinTime](https://github.com/dlwldn4824/pintime) |
-| 2026.08 | [코덱스 커뮤니티 해커톤 본선](https://github.com/dlwldn4824/view_check) | [VibeCheck](https://github.com/dlwldn4824/view_check) |
+| 2026.08 | [코덱스 커뮤니티 해커톤 본선](https://lnkd.in/p/gYjRgmVu) | [VibeCheck](https://github.com/dlwldn4824/view_check) |
 | 2026.08.07 | [파이썬 SW 활용 경진대회 심화 우수상](https://github.com/dlwldn4824/smart_icheon_care) | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) |
 | 2026.07.22 | [소원 H.O.P.E 창의보조공학 경진대회 장려상](https://github.com/dlwldn4824/HOPE_organization) | [또박또박](https://github.com/dlwldn4824/HOPE_organization) |
 | 2026.07 | [HUSS AI 경진대회 장려상](https://github.com/dlwldn4824/HOPE_organization) | [또박또박](https://github.com/dlwldn4824/HOPE_organization) |
