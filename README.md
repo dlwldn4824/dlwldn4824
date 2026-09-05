@@ -67,7 +67,7 @@ AI 상담 초안을 전건 사람이 검수하면 지칩니다. AI는 초안과 
 
 ## 이력
 
-- **조민수 교수 랩 학부연구생** (2026.07 ~) · [DA Lab](https://sites.google.com/view/minsucho)
+- **조민수 교수 랩 [학부연구생](https://dataanalysislab-web.github.io/dalab-site/)** (2026.07 ~)
 - **광운대 대학혁신 서포터즈** (2026.06 ~) — 프로그램 홍보와 재학생 지원
 - **[가짜연구소](https://pseudo-lab.com/) 13기 빌더**
 - **[CHIC](https://github.com/kw-chi-community) 교내 HCI 동아리 운영진**
