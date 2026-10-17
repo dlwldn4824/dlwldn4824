@@ -5,7 +5,7 @@
 광운대학교 정보융합학부 비주얼테크놀로지전공 · 2024.03 ~  
 GPA **4.32 / 4.50** · Major **4.50 / 4.50**
 
-[dlwldn4824@naver.com](mailto:dlwldn4824@naver.com) · [성장 기록 @due_study_archive](https://www.instagram.com/due_study_archive/)
+[dlwldn4824@naver.com](mailto:dlwldn4824@naver.com) · [LinkedIn](https://www.linkedin.com/in/jiwoo-lee-0a3101421/) · [성장 기록 @due_study_archive](https://www.instagram.com/due_study_archive/)
 
 <p align="center">
   <img src="./assets/journey-2026-2.png" alt="프로젝트 · 수상 여정 2024–2026" width="900">
