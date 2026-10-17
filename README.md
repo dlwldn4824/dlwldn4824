@@ -21,6 +21,10 @@ GPA **4.32 / 4.50** · Major **4.50 / 4.50**
 
 ## 프로젝트
 
+**[Fan Table](https://github.com/dlwldn4824/yumithon_fantable)**  
+공연이 22시에 끝나면 6명이, 그중 한 명은 할랄로, 한국 번호 없이 갈 곳을 혼자 찾아야 합니다. 공연장·시간·인원을 말하면 그 시간에 열고 바로 예약되는 곳이 나오고, 트친과 밥팟을 열면 인원이 차는 순간 헤이유미로 자동 예약됩니다.  
+→ [YUMITHON](https://lnkd.in/p/gTSHP_bY) 2등 / 21팀
+
 **[PinTime](https://github.com/dlwldn4824/pintime)** · [열어보기](https://pintime.vercel.app/)  
 톡방에서 “언제 돼?”를 다섯 번 주고받다가, 확정되면 캘린더에 또 적던 그거. 자연어로 제약을 말하면 후보가 나오고, 고르면 일정입니다.  
 → 제1회 일상뒤집기 공모전 우수상
@@ -45,6 +49,7 @@ AI 상담 초안을 전건 사람이 검수하면 지칩니다. AI는 초안과 
 
 | 시기 | 내용 | 관련 |
 | --- | --- | --- |
+| 2026.10.17 | [YUMITHON 2등 / 21팀](https://lnkd.in/p/gTSHP_bY) | [Fan Table](https://github.com/dlwldn4824/yumithon_fantable) |
 | 2026.08 | [제1회 일상뒤집기 공모전 우수상](https://github.com/dlwldn4824/pintime) | [PinTime](https://github.com/dlwldn4824/pintime) |
 | 2026.08 | [코덱스 커뮤니티 해커톤 본선](https://lnkd.in/p/gYjRgmVu) | [VibeCheck](https://github.com/dlwldn4824/view_check) |
 | 2026.08.07 | [파이썬 SW 활용 경진대회 심화 우수상](https://github.com/dlwldn4824/smart_icheon_care) | [이천스마트 케어](https://lnkd.in/p/gf6RXq2X) |
