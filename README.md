@@ -8,7 +8,7 @@ GPA **4.32 / 4.50** · Major **4.50 / 4.50**
 [dlwldn4824@naver.com](mailto:dlwldn4824@naver.com) · [LinkedIn](https://www.linkedin.com/in/jiwoo-lee-0a3101421/) · [성장 기록 @due_study_archive](https://www.instagram.com/due_study_archive/)
 
 <p align="center">
-  <img src="./assets/journey-2026-2.png" alt="프로젝트 · 수상 여정 2024–2026" width="900">
+  <img src="./assets/journey-2026-2b.png" alt="프로젝트 · 수상 여정 2024–2026" width="900">
 </p>
 
 ## 소개
@@ -23,7 +23,7 @@ GPA **4.32 / 4.50** · Major **4.50 / 4.50**
 
 **[Fan Table](https://github.com/dlwldn4824/yumithon_fantable)**  
 공연이 22시에 끝나면 6명이, 그중 한 명은 할랄로, 한국 번호 없이 갈 곳을 혼자 찾아야 합니다. 공연장·시간·인원을 말하면 그 시간에 열고 바로 예약되는 곳이 나오고, 트친과 밥팟을 열면 인원이 차는 순간 헤이유미로 자동 예약됩니다.  
-→ [YUMITHON](https://lnkd.in/p/gTSHP_bY) 2등 / 21팀
+→ [YUMITHON](https://lnkd.in/p/gTSHP_bY) 2위 / 21팀
 
 **[PinTime](https://github.com/dlwldn4824/pintime)** · [열어보기](https://pintime.vercel.app/)  
 톡방에서 “언제 돼?”를 다섯 번 주고받다가, 확정되면 캘린더에 또 적던 그거. 자연어로 제약을 말하면 후보가 나오고, 고르면 일정입니다.  
@@ -39,7 +39,7 @@ GPA **4.32 / 4.50** · Major **4.50 / 4.50**
 
 **[또박또박](https://github.com/dlwldn4824/HOPE_organization)**  
 치료실 밖에서 발음이 맞는지 알려주는 사람이 없습니다. Wav2Vec2-CTC로 음소를 맞춰 PCC/PER로 보여줍니다. 팀장으로 만들었습니다.  
-→ 소원 H.O.P.E 장려상 · HUSS AI 장려상
+→ 소원 H.O.P.E 장려상 · HUSS AI 협의회장상
 
 **[답변등기](https://github.com/dlwldn4824/kb_AI_challenge)**  
 AI 상담 초안을 전건 사람이 검수하면 지칩니다. AI는 초안과 위험 선별만, 봉인·발송은 SHA256/HMAC. 위험 큐 1,248 → 39.  
@@ -49,12 +49,12 @@ AI 상담 초안을 전건 사람이 검수하면 지칩니다. AI는 초안과 
 
 | 시기 | 내용 | 레포 | 자료 |
 | --- | --- | --- | --- |
-| 2026.10.17 | YUMITHON 2등 / 21팀 | [Fan Table](https://github.com/dlwldn4824/yumithon_fantable) | [LinkedIn](https://lnkd.in/p/gTSHP_bY) |
+| 2026.10.17 | YUMITHON 2위 / 21팀 | [Fan Table](https://github.com/dlwldn4824/yumithon_fantable) | [LinkedIn](https://lnkd.in/p/gTSHP_bY) |
 | 2026.08 | 제1회 일상뒤집기 공모전 우수상 | [PinTime](https://github.com/dlwldn4824/pintime) | [서비스](https://pintime.vercel.app/) |
 | 2026.08 | 코덱스 커뮤니티 해커톤 본선 | [VibeCheck](https://github.com/dlwldn4824/view_check) | [LinkedIn](https://lnkd.in/p/gYjRgmVu) |
 | 2026.08.07 | 파이썬 SW 활용 경진대회 심화 우수상 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) | [이천스마트 케어](https://lnkd.in/p/gf6RXq2X) |
 | 2026.07.22 | 소원 H.O.P.E 창의보조공학 경진대회 장려상 | [또박또박](https://github.com/dlwldn4824/HOPE_organization) |  |
-| 2026.07.01–07.03 | HUSS AI 경진대회 장려상 · 광운대 대표 | [또박또박](https://github.com/dlwldn4824/HOPE_organization) |  |
+| 2026.07.01–07.03 | HUSS AI 경진대회 협의회장상 · 광운대 대표 | [또박또박](https://github.com/dlwldn4824/HOPE_organization) |  |
 | 2026.06.24–06.26 | 지능형 로봇 컨소시엄 창의융합캠프 대상 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) | [이천스마트 케어](https://lnkd.in/p/gf6RXq2X) |
 | 2025.12 | 마이크로모듈 초급 SS급 · 지능형로봇사업단 |  |  |
 | 2025.05.29 | 매치업 심화과정 우수상 · 실무보고서 · 포스터 |  |  |
