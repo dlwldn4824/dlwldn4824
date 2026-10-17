@@ -47,19 +47,19 @@ AI 상담 초안을 전건 사람이 검수하면 지칩니다. AI는 초안과 
 
 ## 수상
 
-| 시기 | 내용 | 관련 |
-| --- | --- | --- |
-| 2026.10.17 | [YUMITHON 2등 / 21팀](https://lnkd.in/p/gTSHP_bY) | [Fan Table](https://github.com/dlwldn4824/yumithon_fantable) |
-| 2026.08 | [제1회 일상뒤집기 공모전 우수상](https://github.com/dlwldn4824/pintime) | [PinTime](https://github.com/dlwldn4824/pintime) |
-| 2026.08 | [코덱스 커뮤니티 해커톤 본선](https://lnkd.in/p/gYjRgmVu) | [VibeCheck](https://github.com/dlwldn4824/view_check) |
-| 2026.08.07 | [파이썬 SW 활용 경진대회 심화 우수상](https://github.com/dlwldn4824/smart_icheon_care) | [이천스마트 케어](https://lnkd.in/p/gf6RXq2X) |
-| 2026.07.22 | [소원 H.O.P.E 창의보조공학 경진대회 장려상](https://github.com/dlwldn4824/HOPE_organization) | [또박또박](https://github.com/dlwldn4824/HOPE_organization) |
-| 2026.07.01–07.03 | [HUSS AI 경진대회 장려상](https://github.com/dlwldn4824/HOPE_organization) | [또박또박](https://github.com/dlwldn4824/HOPE_organization) · 광운대 대표 |
-| 2026.06.24–06.26 | [지능형 로봇 컨소시엄 창의융합캠프 대상](https://github.com/dlwldn4824/smart_icheon_care) | [이천스마트 케어](https://lnkd.in/p/gf6RXq2X) |
-| 2025.12 | 마이크로모듈 초급 SS급 | 지능형로봇사업단 |
-| 2025.05.29 | 매치업 심화과정 우수상 | 실무보고서 · 포스터 |
-| 2024.12 | 창업동아리 경진대회 장려상 | 광운대학교 |
-| 2024.05 | 글쓰기 대회 가작 | 산문 |
+| 시기 | 내용 | 레포 | 자료 |
+| --- | --- | --- | --- |
+| 2026.10.17 | YUMITHON 2등 / 21팀 | [Fan Table](https://github.com/dlwldn4824/yumithon_fantable) | [LinkedIn](https://lnkd.in/p/gTSHP_bY) |
+| 2026.08 | 제1회 일상뒤집기 공모전 우수상 | [PinTime](https://github.com/dlwldn4824/pintime) | [서비스](https://pintime.vercel.app/) |
+| 2026.08 | 코덱스 커뮤니티 해커톤 본선 | [VibeCheck](https://github.com/dlwldn4824/view_check) | [LinkedIn](https://lnkd.in/p/gYjRgmVu) |
+| 2026.08.07 | 파이썬 SW 활용 경진대회 심화 우수상 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) | [이천스마트 케어](https://lnkd.in/p/gf6RXq2X) |
+| 2026.07.22 | 소원 H.O.P.E 창의보조공학 경진대회 장려상 | [또박또박](https://github.com/dlwldn4824/HOPE_organization) |  |
+| 2026.07.01–07.03 | HUSS AI 경진대회 장려상 · 광운대 대표 | [또박또박](https://github.com/dlwldn4824/HOPE_organization) |  |
+| 2026.06.24–06.26 | 지능형 로봇 컨소시엄 창의융합캠프 대상 | [Smart Icheon Care](https://github.com/dlwldn4824/smart_icheon_care) | [이천스마트 케어](https://lnkd.in/p/gf6RXq2X) |
+| 2025.12 | 마이크로모듈 초급 SS급 · 지능형로봇사업단 |  |  |
+| 2025.05.29 | 매치업 심화과정 우수상 · 실무보고서 · 포스터 |  |  |
+| 2024.12 | 창업동아리 경진대회 장려상 · 광운대학교 |  |  |
+| 2024.05 | 글쓰기 대회 가작 · 산문 |  |  |
 
 ## 장학
 
