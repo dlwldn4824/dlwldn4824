@@ -8,7 +8,7 @@ GPA **4.32 / 4.50** · Major **4.50 / 4.50**
 [dlwldn4824@naver.com](mailto:dlwldn4824@naver.com) · [LinkedIn](https://www.linkedin.com/in/jiwoo-lee-0a3101421/) · [성장 기록 @due_study_archive](https://www.instagram.com/due_study_archive/)
 
 <p align="center">
-  <img src="./assets/journey-2026-2b.png" alt="프로젝트 · 수상 여정 2024–2026" width="900">
+  <img src="./assets/journey-2026-2c.png" alt="프로젝트 · 수상 여정 2024–2026" width="900">
 </p>
 
 ## 소개
@@ -49,6 +49,8 @@ AI 상담 초안을 전건 사람이 검수하면 지칩니다. AI는 초안과 
 
 | 시기 | 내용 | 레포 | 자료 |
 | --- | --- | --- | --- |
+| 2026.10 | 2026 KW해커톤 총장상 · 팀 삼삼오오 · 월계1동 주민 전시·현장 투표 | [월계함](https://github.com/dlwldn4824/24_3355) |  |
+| 2026.10 | 2026 KW해커톤 매니패스트상 · 광운대 · 카카오페이 · 매니패스트 | [월계함](https://github.com/dlwldn4824/24_3355) |  |
 | 2026.10.17 | YUMITHON 2위 / 21팀 | [Fan Table](https://github.com/dlwldn4824/yumithon_fantable) | [LinkedIn](https://lnkd.in/p/gTSHP_bY) |
 | 2026.08 | 제1회 일상뒤집기 공모전 우수상 | [PinTime](https://github.com/dlwldn4824/pintime) | [서비스](https://pintime.vercel.app/) |
 | 2026.08 | 코덱스 커뮤니티 해커톤 본선 | [VibeCheck](https://github.com/dlwldn4824/view_check) | [LinkedIn](https://lnkd.in/p/gYjRgmVu) |
