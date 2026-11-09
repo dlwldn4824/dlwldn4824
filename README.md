@@ -49,6 +49,25 @@ GPA **4.32 / 4.50** · Major **4.50 / 4.50**
 AI 상담 초안을 전건 사람이 검수하면 지칩니다. AI는 초안과 위험 선별만, 봉인·발송은 SHA256/HMAC. 위험 큐 1,248 → 39.  
 → KB 금융 챌린지 · 합성 Recall@39 81.3%
 
+## 2026 연구 · 프로젝트
+
+**연구 · 데이터**
+
+- **[NeSy · ICU 사망·섬망 예측](https://github.com/dlwldn4824/NeSy-SMP-repro)** — 의학 지식 규칙을 넣으면 정말 더 잘 맞힐까. 논문을 재현해 보니 6시간 전 사망 예측 AUROC는 XGBoost 92.67, NeSy 91.02였고, 규칙 12개 중 11개는 학습 신호가 0이었습니다. · Data Analytics Lab
+- **[정신건강 상담 LLM 오판 완화](https://github.com/dlwldn4824/TM-MultiLayer-MentalHealth)** — 에이전트를 늘리면 안전해지지만 느려집니다. 위험할 때만 다시 쓰게 해 Revision을 약 6%로 줄였습니다. · CounselChat 29건 기준
+- **[LG Aimers 9기 · 투구 제구 확률 예측](https://github.com/dlwldn4824/piching_machine)** — 147만 건의 투구 기록. 로컬 점수를 그대로 믿지 않고, 서로 다르게 틀리는 두 묶음을 섞어 대회 점수 841 → 1186.4.
+- **[H10 착석 보조](https://github.com/dlwldn4824/h10-sit-assist)** — 1 kHz 로봇 로그를 직접 디코딩해 사람마다 평소 기준을 만들고, 낮은 의자 착석 10회 중 9회를 구분했습니다.
+- **[H10 세이프티](https://github.com/dlwldn4824/h10-safety-sim)** — 지치면 다리를 덜 들 거라 봤는데, 실측에서는 ‘느려짐’이 신호였습니다. 그 데이터로 판정 기준을 다시 정했습니다.
+
+**서비스**
+
+- **[월계함](https://github.com/dlwldn4824/24_3355)** — 집주인의 안내를 다음 세입자에게 이어 주는 생활안내 서비스. → KW 해커톤 총장상 · 매니페스트상
+- **[골목픽](https://github.com/dlwldn4824/nowon-log)** — 공강 시간 안에 닿는 학교 앞 가게를 골라 줍니다. HeyYumi API · 서울시 상권분석서비스
+- **[칩췍](https://github.com/dlwldn4824/chipcheck)** — 반도체 불량 이미지 분석 SW + FPGA 추론 가속기. · AI 티키타카 멘토
+- **[밴드 공연 관리 웹](https://github.com/dlwldn4824/bandy)** — 예매 · 입금 확인 · 입장 · 셋리스트를 한 웹앱으로. 실제 공연에 적용했습니다.
+- **[카드뉴스 스튜디오](https://github.com/dlwldn4824/homeground-cardnews-studio)** — 사진 · 녹음 · 메모를 올리면 Claude가 카드 구성과 캡션을 만들고, Figma 플러그인이 템플릿대로 그립니다. · 홈그라운드
+- **[iM Shield](https://github.com/dlwldn4824/iM-Shield)** — 모의 피싱을 미리 겪어 보고, 피해 직후 공식 대응 절차를 순서대로 안내하는 데모. · iM:POSSIBLE
+
 ## 수상
 
 | 시기 | 내용 | 레포 | 자료 |
